@@ -1,12 +1,4 @@
----
-title: "Investigating seismic activity in Morocco using Spatial Statistical Methods"
-output: html_document
-date: "2023-12-11"
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+# Investigating seismic activity in Morocco using Spatial Statistical Methods
 
 On September 8, 2023, Morocco experienced one of the most devastating earthquakes in recent history. The earthquake struck 70 km southwest of the Marrakesh region with a magnitude of 6.8. The impact of the earthquake was devastating, causing widespread destruction in parts of the Atlas mountains, including the city of Marrakech and surrounding areas. The earthquake resulted in nearly 3,000 deaths and left a lasting impact on the lives of thousands of survivors, particularly in the Al-Haouz province. This earthquake is among the most destructive in Morocco's recent history, underscoring the geological risks the country faces due to its location. The Mediterranean region, including Morocco, is a zone of convergence between the African and European continents, leading to significant seismic activity. This activity results from the slow but constant narrowing of the Mediterranean, which was once a much larger ocean, leading to the formation of mountain ranges and the creation of fault lines. Such geological settings make regions like Morocco vulnerable to devastating earthquakes.
 
